@@ -1,0 +1,1 @@
+# django-pg_admin-postgresql
